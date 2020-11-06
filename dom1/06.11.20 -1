@@ -1,0 +1,8 @@
+public class Main {
+    public static void main(String[] args) {
+        String name = "Viny";
+        int age =3;
+        String city = "Moscow";
+        System.out.println("Имя "+name+" Возраст " +age+" Город "+city);
+    }
+}
